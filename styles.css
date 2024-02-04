@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282c35;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+#container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #61dafb;
+}
+
+canvas {
+    border: 2px solid #61dafb;
+    background-color: #1d2127;
+}
+
+#score {
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: #61dafb;
+}
+
+#level {
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: #61dafb;
+}
+
+button {
+    background-color: #61dafb;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+input {
+    font-size: 1em;
+    padding: 5px;
+    margin-top: 10px;
+}
