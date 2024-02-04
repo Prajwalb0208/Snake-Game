@@ -49,5 +49,11 @@ The game is optimized for desktop web browsers and may not work as expected on m
 ## Credits
 
 This Snake Game is developed by Prajwal B.
+![Screenshot (488)](https://github.com/Prajwalb0208/Snake-Game/assets/92373236/fe155032-69f1-47c3-a9f1-c8c7ad8bf2f4)
+![Screenshot (489)](https://github.com/Prajwalb0208/Snake-Game/assets/92373236/ea3eb1ef-bca1-4e43-8778-9213d937696b)
+
+## Preview
+
+
 
 Enjoy playing the Snake Game!
